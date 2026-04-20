@@ -58,6 +58,11 @@ Coronation Secondary School
 **Ms. P Mahlangu**
 📞 078 714 2313
 
+
+## Reflection on Coding in Markdown
+I was required to create a professional digital portfolio using Markdown as part of my academic development. My task was to learn the Markdown syntax and use it effectively to structure my CV in a clear and professional manner. To achieve this, I researched key Markdown features such as headings, lists, bold text, hyperlinks, and spacing, and then applied these techniques while coding my CV on GitHub. As a result, I successfully developed a clean, well-organized, and easy-to-navigate portfolio page that presents my information professionally while also improving my technical skills.
+
+
 <h2>Mock Interview Video</h2> 
 <video width="600" controls> <source src="Mock Interview.mp4" type="video/mp4">
 Your brower does not support the video tag.
