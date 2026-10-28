@@ -77,7 +77,6 @@ I participated in a mock interview as part of my work readiness preparation to i
 
 ---
 
-
 # Agile Team Charter
 
 ## 1. Evidence: Agile Team Charter
