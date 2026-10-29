@@ -132,3 +132,31 @@ I participated in a mock interview as part of my work readiness preparation to i
 ### Team Signatures
 <img width="816" height="182" alt="team-signatures" src="https://github.com/user-attachments/assets/b708a805-fecb-490d-8552-3aad92501eee" />
 
+---
+---
+
+## User Stories and Tasks
+
+An Agile user story is a short, simple description of a software feature written from the end-user's perspective. For our project, we broke these down into specific operational tasks[cite: 4].
+
+### User Story 1: Student Food Listing
+* **As a:** student food vendor living in CPUT residence[cite: 8],
+* **I want to:** post and manage my homemade meal listings with prices and pickup times[cite: 8],
+* **So that:** potential buyers can easily see what food is available[cite: 8].
+
+**Task Breakdown:**
+* [x] Design the food listing form UI (Dish name, price, description, residence location).
+* [x] Implement backend database schema for food items.
+* [x] Connect form submission to the database so listings display on the feed.
+
+### User Story 2: Browsing and Ordering
+* **As a:** hungry student on campus or in residence[cite: 8],
+* **I want to:** browse available meals and place an order[cite: 8],
+* **So that:** I can purchase affordable food near me[cite: 8].
+
+**Task Breakdown:**
+* [x] Create a responsive home feed displaying active vendor listings.
+* [x] Build an ordering/cart mechanism for selected meals.
+* [x] Add status tracking for orders (Pending, Ready for Pickup, Completed).
+
+-----get the pics
