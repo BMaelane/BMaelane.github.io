@@ -97,6 +97,9 @@ I participated in a mock interview as part of my work readiness preparation to i
 * We show up prepared and on time[cite: 9].
 * We make decisions as a team and respect deadlines[cite: 9].
 * We maintain honest communication and give constructive feedback[cite: 9].
+---
+<img width="641" height="690" alt="charter-1" src="https://github.com/user-attachments/assets/be7de95f-d702-485a-bada-c19fb6645230" />
+
 
 ### Team Signatures
 <img width="816" height="182" alt="team-signatures" src="https://github.com/user-attachments/assets/b708a805-fecb-490d-8552-3aad92501eee" />
