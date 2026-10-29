@@ -77,32 +77,25 @@ I participated in a mock interview as part of my work readiness preparation to i
 
 ---
 
-# Agile Team Charter
-
-## 1. Evidence: Agile Team Charter
-
-An Agile team charter serves as a living, co-created social contract that defines our shared purpose, core values, working agreements, and operational boundaries to reduce friction and align daily execution[cite: 4].
-
-### Core Purpose
-To deliver high-quality project increments through transparent communication, mutual accountability, and continuous improvement.
-
-### Core Values
-* **Transparency:** Keeping all project artifacts, backlogs, and blockers visible to everyone.
-* **Collaboration:** Actively working together, sharing knowledge, and supporting team members.
-* **Commitment:** Delivering on sprint goals and respecting agreed-upon deadlines.
-* **Respect:** Valuing diverse ideas and maintaining a positive team environment.
-
-### Working Agreements
-1. **Communication:** Utilize designated communication channels daily for stand-ups and urgent updates.
-2. **Meetings:** Punctuality is required for all sprint planning sessions and retrospectives.
-3. **Code Quality:** All code contributions must be reviewed and tested before merging into the main branch.
-4. **Conflict Resolution:** Address disagreements openly and constructively during retrospectives.
-
 ---
 
-## 2. Reflection
+## Agile Team Charter
 
-* **Collect:** Throughout the project lifecycle, we gathered and documented our team ground rules, communication protocols, and core values to establish a baseline for how we would operate.
-* **Select:** We chose to formalize this Agile Team Charter because defining clear operational boundaries and shared values is vital for minimizing misunderstandings and friction during high-pressure development sprints[cite: 4].
-* **Reflect:** Creating this charter forced us to think critically about potential bottlenecks—such as communication gaps and mismatched expectations—allowing us to proactively establish rules to handle them. It transformed our group dynamic from a loose collection of individuals into a synchronized team.
-* **Connect:** This charter directly connects to our subsequent sprint backlogs and daily logbooks, as our working agreements governed how we conducted our daily stand-ups and managed our tasks throughout the project.
+**Team Name:** Student Eats[cite: 7]
+**Group Members:** Lisakhanya Ndwandwa, Luthando Ndlaku, Tshepang George Lechaba, Bradley Maelane, Thabo Dalisizwe Junior Tutu[cite: 7]
+
+### 1. Team Purpose & Vision
+* **Mission:** To develop an organised, online marketplace for students to address the problem of selling food informally in residences and limited access to reasonably priced food[cite: 8].
+* **Product:** A digital platform where students can list, sell, browse, and order homemade meals within CPUT housing and campus[cite: 8].
+
+### 2. Ways of Working (Agile Kanban)
+* **Daily Stand-up:** 15-minute daily sync via WhatsApp/Teams to flag blockers[cite: 9, 10].
+* **Planning & Reviews:** Weekly planning sessions and end-of-meeting demos to review progress[cite: 9].
+
+### 3. Core Working Agreements
+* We show up prepared and on time[cite: 9].
+* We make decisions as a team and respect deadlines[cite: 9].
+* We maintain honest communication and give constructive feedback[cite: 9].
+
+### Team Signatures
+![Team Signatures](team-signatures.png)
