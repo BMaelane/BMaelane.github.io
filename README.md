@@ -1,4 +1,4 @@
-<img width="816" height="182" alt="team-signatures" src="https://github.com/user-attachments/assets/b708a805-fecb-490d-8552-3aad92501eee" />
+
 # Bradley Maelane
 📍 Cape Town, South Africa 
 📞 083 343 2257
@@ -99,5 +99,5 @@ I participated in a mock interview as part of my work readiness preparation to i
 * We maintain honest communication and give constructive feedback[cite: 9].
 
 ### Team Signatures
-![Team Signatures](team-signatures.png) ![Uploading team-signatures.png…]()
+![Team Signatures](team-signatures.png) ![Uploading team-signatures.png…]()<img width="816" height="182" alt="team-signatures" src="https://github.com/user-attachments/assets/b708a805-fecb-490d-8552-3aad92501eee" />
 
