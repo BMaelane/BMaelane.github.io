@@ -97,9 +97,37 @@ I participated in a mock interview as part of my work readiness preparation to i
 * We show up prepared and on time[cite: 9].
 * We make decisions as a team and respect deadlines[cite: 9].
 * We maintain honest communication and give constructive feedback[cite: 9].
+
 ---
+
+## Evidence
 <img width="641" height="690" alt="charter-1" src="https://github.com/user-attachments/assets/be7de95f-d702-485a-bada-c19fb6645230" />
 
+---
+
+<img width="462" height="202" alt="charter-2" src="https://github.com/user-attachments/assets/51acaff8-07a6-4a38-8a1a-71fea4544947" />
+
+---
+
+<img width="582" height="587" alt="charter-3" src="https://github.com/user-attachments/assets/1f2c1c55-5e81-4af6-97c2-71b884cef8fe" />
+
+---
+
+<img width="637" height="657" alt="charter-4" src="https://github.com/user-attachments/assets/30e1edf5-9321-430a-b7e0-7eb8b040f95a" />
+
+---
+
+<img width="581" height="708" alt="charter-5" src="https://github.com/user-attachments/assets/c30fcae9-4bb0-453f-8d35-87777d801182" />
+
+---
+
+<img width="626" height="797" alt="charter-6" src="https://github.com/user-attachments/assets/499bfcb2-d987-4cc4-81c0-48e4f8e2f800" />
+
+---
+
+<img width="605" height="387" alt="charter-7" src="https://github.com/user-attachments/assets/aabc97cd-d878-4f0d-824f-6f55bbb9d2b8" />
+
+---
 
 ### Team Signatures
 <img width="816" height="182" alt="team-signatures" src="https://github.com/user-attachments/assets/b708a805-fecb-490d-8552-3aad92501eee" />
