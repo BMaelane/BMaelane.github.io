@@ -160,3 +160,62 @@ An Agile user story is a short, simple description of a software feature written
 * [x] Add status tracking for orders (Pending, Ready for Pickup, Completed).
 
 -----get the pics
+
+---
+---
+
+---
+
+## Product Backlog
+
+A product backlog is a prioritized list of all required work, features, bug fixes, and improvements needed for a product.
+
+| Priority | Feature / Item ID | Description | Estimated Effort | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| High | PB-01 | User Authentication & Role Selection (Buyer vs. Vendor) | 3 Days | Completed |
+| High | PB-02 | Food Item Listing & Menu Management Interface[cite: 8] | 4 Days | Completed |
+| Medium | PB-03 | Order Placement and Cart Functionality[cite: 8] | 3 Days | Completed |
+| Medium | PB-04 | Real-time Order Status Updates & Notifications | 2 Days | In Progress |
+| Low | PB-05 | Rating and Review System for Vendors | 2 Days | Backlog |
+
+---
+
+## Sprint Backlog
+
+A Sprint Backlog is a real-time, actionable plan created by and for developers that outlines the specific work needed to achieve the sprint goal[cite: 4].
+
+### Current Sprint Goal: Core Marketplace MVP Setup & Listing Functionality
+* **Task 1:** Set up database connections and user schema (Assigned to Developer)[cite: 9].
+* **Task 2:** Design and code the vendor food upload form UI (Assigned to Designer)[cite: 8, 9].
+* **Task 3:** Implement Kanban board tracking and daily stand-ups (Assigned to Agile Lead)[cite: 9].
+* **Task 4:** Perform preliminary unit testing on form inputs and submission flows (Assigned to Tester)[cite: 9].
+
+---
+
+## Reflections: User Stories and Backlogs
+
+* **Collect:** We compiled feature requests and backlog items based on the core operational requirements of the Student Eats platform[cite: 8].
+* **Select:** We prioritized essential features into the product and sprint backlogs to focus strictly on delivering a functional Minimum Viable Product (MVP)[cite: 4].
+* **Reflect:** Managing the backlog helped us recognize scope creep early and re-align our daily workloads to match our realistic team capacity.
+* **Connect:** These backlogs directly link our high-level user stories to our daily stand-up tasks and Kanban tracking.
+
+----
+----
+
+---
+
+## Agile Logbook
+
+An agile logbook is a tracking tool used to record daily stand-ups, sprint plans, and retrospective notes[cite: 4].
+
+### Sprint Logbook Summary (July - August 2026)
+* **Daily Stand-ups:** Conducted 15-minute daily syncs via WhatsApp and Microsoft Teams to catch up on what everyone's doing and flag anything blocking progress[cite: 9, 10].
+* **Sprint Planning:** Held weekly planning sessions to decide what tasks to tackle and figure out priorities for the week[cite: 9].
+* **Sprint Review / Demos:** End-of-meeting showcases to review finished work and gather feedback[cite: 9].
+* **Retrospectives:** Looked back at how things went at the end of each session to find ways to work better together[cite: 9].
+
+### Reflections: Agile Logbook
+* **Collect:** We tracked our daily team stand-ups and weekly sprint progression throughout the project timeline[cite: 9].
+* **Select:** We selected key highlights from our logbook entries to demonstrate consistent tracking and iterative problem-solving[cite: 4].
+* **Reflect:** Recording our stand-ups and retrospectives helped us catch communication bottlenecks early and hold each other accountable.
+* **Connect:** This logbook ties our entire team execution together, linking our initial Agile Team Charter and backlogs to our final deliverables.
