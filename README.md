@@ -159,7 +159,41 @@ An Agile user story is a short, simple description of a software feature written
 * [x] Build an ordering/cart mechanism for selected meals.
 * [x] Add status tracking for orders (Pending, Ready for Pickup, Completed).
 
------get the pics
+---
+
+## User Stories and Tasks
+
+An Agile user story is a short, simple description of a software feature written from the end-user's perspective[cite: 4]. For the "Student Eats" platform at CPUT[cite: 8], we defined the following core user stories and tasks:
+
+### User Story 1: Student Food Listing & Management
+* **As a:** student food vendor living in CPUT residence[cite: 8],
+* **I want to:** post and manage my homemade meal listings with prices, descriptions, and pickup times[cite: 8],
+* **So that:** potential student buyers can easily view and purchase what food is available[cite: 8].
+
+**Task Breakdown:**
+* [x] Design the food listing form UI (Dish name, price, description, residence location).
+* [x] Implement backend database schema for storing food items.
+* [x] Connect form submission to the database so active listings display dynamically on the feed.
+
+### User Story 2: Browsing and Order Placement
+* **As a:** hungry student on campus or in residence[cite: 8],
+* **I want to:** browse available meals and place an order[cite: 8],
+* **So that:** I can conveniently purchase affordable food near me[cite: 8].
+
+**Task Breakdown:**
+* [x] Create a responsive home feed displaying active vendor listings[cite: 8].
+* [x] Build an ordering/cart mechanism for selecting meals.
+* [x] Add status tracking for orders (Pending, Ready for Pickup, Completed).
+
+### User Story 3: Pickup Coordination & Communication
+* **As a:** student buyer or vendor,
+* **I want to:** coordinate pickup details and track order statuses,
+* **So that:** the food exchange within CPUT housing or campus runs smoothly and safely[cite: 8].
+
+**Task Breakdown:**
+* [x] Implement order status updates for vendors to notify buyers when food is ready.
+* [x] Display pickup location details based on CPUT residence data.
+* [x] Provide a summary view of completed orders for history tracking.
 
 ---
 ---
@@ -199,6 +233,8 @@ A Sprint Backlog is a real-time, actionable plan created by and for developers t
 * **Reflect:** Managing the backlog helped us recognize scope creep early and re-align our daily workloads to match our realistic team capacity.
 * **Connect:** These backlogs directly link our high-level user stories to our daily stand-up tasks and Kanban tracking.
 
+
+
 ----
 ----
 
@@ -213,6 +249,12 @@ An agile logbook is a tracking tool used to record daily stand-ups, sprint plans
 * **Sprint Planning:** Held weekly planning sessions to decide what tasks to tackle and figure out priorities for the week[cite: 9].
 * **Sprint Review / Demos:** End-of-meeting showcases to review finished work and gather feedback[cite: 9].
 * **Retrospectives:** Looked back at how things went at the end of each session to find ways to work better together[cite: 9].
+
+<img width="1312" height="851" alt="A1" src="https://github.com/user-attachments/assets/83802bd5-a86c-4fea-996a-608747d7a93c" />
+<img width="586" height="395" alt="A2" src="https://github.com/user-attachments/assets/2392f4a2-eab4-40bc-8181-3868394b6a8b" />
+<img width="1162" height="790" alt="A3" src="https://github.com/user-attachments/assets/b3a55875-4537-40b1-be0c-289e62a6d237" />
+<img width="1177" height="732" alt="A4" src="https://github.com/user-attachments/assets/7b61d7bb-97d4-4df2-9151-3b64ab865fd0" />
+<img width="1161" height="675" alt="A5" src="https://github.com/user-attachments/assets/d318258b-3952-4b5b-a155-400053225549" />
 
 ### Reflections: Agile Logbook
 * **Collect:** We tracked our daily team stand-ups and weekly sprint progression throughout the project timeline[cite: 9].
