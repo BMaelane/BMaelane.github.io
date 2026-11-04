@@ -237,12 +237,8 @@ A Sprint Backlog is a real-time, actionable plan created by and for developers t
 * **Reflect:** Managing the backlog helped us recognize scope creep early and re-align our daily workloads to match our realistic team capacity.
 * **Connect:** These backlogs directly link our high-level user stories to our daily stand-up tasks and Kanban tracking.
 
-
-
 ----
 ----
-
----
 
 ## Agile Logbook
 
@@ -265,3 +261,21 @@ An agile logbook is a tracking tool used to record daily stand-ups, sprint plans
 * **Select:** We selected key highlights from our logbook entries to demonstrate consistent tracking and iterative problem-solving[cite: 4].
 * **Reflect:** Recording our stand-ups and retrospectives helped us catch communication bottlenecks early and hold each other accountable.
 * **Connect:** This logbook ties our entire team execution together, linking our initial Agile Team Charter and backlogs to our final deliverables.
+
+---
+---
+
+## The final Product
+# StudentEats
+<img width="1600" height="761" alt="P1" src="https://github.com/user-attachments/assets/0b8fcb80-8705-45b5-afb1-c001c8abc048" />
+<img width="1600" height="899" alt="P2" src="https://github.com/user-attachments/assets/e2e89d06-a027-4fff-9b2b-6f5e612ea0de" />
+<img width="1600" height="840" alt="P3" src="https://github.com/user-attachments/assets/49b9771d-4c9a-4512-b30e-11c0c6ffceaa" />
+<img width="1600" height="758" alt="P4" src="https://github.com/user-attachments/assets/383c18f4-19a6-4dce-9108-23918ef43e1e" />
+<img width="1600" height="768" alt="P5" src="https://github.com/user-attachments/assets/e4eda0b2-c60d-401c-97c3-e67bc39ae66a" />
+<img width="1600" height="700" alt="P6" src="https://github.com/user-attachments/assets/eb403235-25e4-44d5-9d5c-1404b55ffc13" />
+
+
+
+
+
+
