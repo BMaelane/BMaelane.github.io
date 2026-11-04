@@ -198,8 +198,6 @@ An Agile user story is a short, simple description of a software feature written
 ---
 ---
 
----
-
 ## Product Backlog
 
 A product backlog is a prioritized list of all required work, features, bug fixes, and improvements needed for a product.
@@ -223,6 +221,12 @@ A Sprint Backlog is a real-time, actionable plan created by and for developers t
 * **Task 2:** Design and code the vendor food upload form UI (Assigned to Designer)[cite: 8, 9].
 * **Task 3:** Implement Kanban board tracking and daily stand-ups (Assigned to Agile Lead)[cite: 9].
 * **Task 4:** Perform preliminary unit testing on form inputs and submission flows (Assigned to Tester)[cite: 9].
+
+<img width="1907" height="906" alt="S1" src="https://github.com/user-attachments/assets/74670c00-1184-4b89-806f-33c7492b4612" />
+<img width="1086" height="847" alt="S2" src="https://github.com/user-attachments/assets/49ce333b-4b41-49d3-8775-33de5b14ca55" />
+<img width="747" height="851" alt="S3" src="https://github.com/user-attachments/assets/6887c7c5-cc18-4ff6-872a-4b9c6aded262" />
+<img width="807" height="862" alt="S4" src="https://github.com/user-attachments/assets/6cf5aab1-4649-4a4c-90cb-6a4044b012ea" />
+<img width="1057" height="816" alt="S5" src="https://github.com/user-attachments/assets/f057535e-1417-4b98-98d5-08549da28206" />
 
 ---
 
